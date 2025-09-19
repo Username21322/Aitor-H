@@ -28,13 +28,13 @@ A mi m'agrada molt la tecnologia, es una de les raoens per las que faig un cicle
 - Cambrer
 - Netejador
 
-  # Projectes destacats
+# Projectes destacats
 
 - Treball de recerca millor valorat a tota Catalunya
 - Millor credit de síntesi de Barcelona
 - Programació de mods de Minecraft +1M de descargues
 
-  # Habilitats
+# Habilitats
 
 - Programació simple pero eficaç
 - Molt bona adaptació
@@ -42,18 +42,18 @@ A mi m'agrada molt la tecnologia, es una de les raoens per las que faig un cicle
 - Treball en solitari
 - Millor entendiment en programació de python
 
-  # Xarxes socials
+# Xarxes socials
 - Github: [github.com/Username21322](https://github.com/Username21322)
 
-  # Fotografia
+# Fotografia
 <img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/81ff1798-9026-41fb-88b5-0374407eabce" />
 
 
-  # Enllaços personals
+# Enllaços personals
 
   - Github: [github.com/Username21322](https://github.com/Username21322)
 
-  # Tasques pendents
+# Tasques pendents
   
   - [x] Tenir l'ESO
   - [ ] Graduació de Cicles de Grau mig
