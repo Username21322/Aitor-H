@@ -56,7 +56,7 @@ A mi m'agrada molt la tecnologia, es una de les raoens per las que faig un cicle
   # Tasques pendents
   
   - [x] Tenir l'ESO
-  - [ ] Graduació de Cicles de Grau mitg
+  - [ ] Graduació de Cicles de Grau mig
   - [ ] Tenir molts diners 
  
 
