@@ -12,7 +12,7 @@ A mi m'agrada molt la tecnologia, es una de les raoens per las que faig un cicle
 
 - Tecnologia
 - videojocs
-- Cuina Ejemplo en ingles [Pasta Carbonara]()
+- Cuina / Exemple en Anglés [Pasta Carbonara](https://github.com/Username21322/Aitor-H/blob/main/Extra.md)
 - mecanica
 - Musica
 
