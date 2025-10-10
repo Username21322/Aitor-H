@@ -59,7 +59,7 @@ A mi m'agrada molt la tecnologia, es una de les raoens per las que faig un cicle
   - [ ] Graduació de Cicles de Grau mig
   - [ ] Tenir molts diners 
  
-# [Pràctica: Creació d'una presentació amb Google Slides](https://github.com/Username21322/Aitor-H/blob/main/Practica_EinesGoogle_AitorHuanca_NickPinzon)
+# [Pràctica: Creació d'una presentació amb Google Slides](https://github.com/Username21322/Aitor-H/blob/main/Practica_EinesGoogle_AitorHuanca_NickPinzon.md)
 
 
 
